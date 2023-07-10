@@ -8,10 +8,10 @@ export default defineConfig((options: Options) => ({
   splitting: true,
   entry: ["src/**/*.tsx"],
   format: ["esm"],
-  target: "ES2020",
-  dts: true,
+  target: "es2020",
+  dts: false,
   minify: true,
-  clean: true,
+  clean: false,
   external: ["next", "react", "react-dom"],
   ...options,
 }));

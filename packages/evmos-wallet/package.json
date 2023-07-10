@@ -12,6 +12,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "build": "tsup",
+    "build:types": "tsc --emitDeclarationOnly",
     "dev": "tsup --watch",
     "check-types": "tsc --noEmit"
   },

@@ -1,0 +1,1 @@
+{"version":3,"file":"walletconnectSigner.d.ts","sourceRoot":"","sources":["walletconnectSigner.ts"],"names":[],"mappings":"AAIA,OAAO,EAAE,MAAM,EAAE,WAAW,EAAE,MAAM,qBAAqB,CAAC;AAI1D,OAAO,EAA2B,oBAAoB,EAAE,MAAM,YAAY,CAAC;AAI3E,wBAAsB,8BAA8B,CAClD,MAAM,EAAE,MAAM,EACd,EAAE,EAAE,WAAW;;;;;;;;;;;GAkEhB;AAED,wBAAsB,8BAA8B,CAClD,MAAM,EAAE,MAAM,EACd,EAAE,EAAE,oBAAoB;;;;;;;;GAkDzB"}
